@@ -1,5 +1,5 @@
 ---
-title: "kathy.Rmd"
+title: "Kathy"
 author: "Kathy Stenehjem"
 date: "2023-02-15"
 output: html_document
