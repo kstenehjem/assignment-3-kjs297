@@ -1,0 +1,17 @@
+---
+title: "kathy.Rmd"
+author: "Kathy Stenehjem"
+date: "2023-02-15"
+output: html_document
+---
+
+* I baked cherry cheesecake cookies last Sunday
+
+  * They were really good!
+  
+<br>
+  
+* I have three cute cats: Casper, Nigel, and Petra
+
+* I love winter!
+
