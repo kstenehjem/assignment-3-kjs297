@@ -1,0 +1,16 @@
+---
+title: "Udita"
+author: "Udita Bansal"
+date: "2023-02-14"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+- I am a first year PhD student in the department of Ecology and Evolutionary Biology.
+
+- I am interested in studying how sleep ecology affects body color evolution.
+
+- I like using phylogenetic comparative methods for finding broad patterns across taxa. On the other hand, I love field work for answering questions at a finer scale.
